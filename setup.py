@@ -10,7 +10,7 @@ setup(
     description='"Django Comments Framework XTD extension app with Ajax commenting support',
     long_description=open('README.md').read(),
     install_requires=[
-        'django-comments-xtd>=2.0.8,<2.1'
+        'django-comments-xtd>=2.0.8,<2.4'
     ],
     classifiers=[
         'Development Status :: 3 - Alpha',
